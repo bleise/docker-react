@@ -1,0 +1,17 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <option name="OTHER_INDENT_OPTIONS">
+      <value>
+        <option name="INDENT_SIZE" value="2" />
+        <option name="TAB_SIZE" value="2" />
+      </value>
+    </option>
+    <ClojureCodeStyleSettings>{
+  :clojure.core/partial :only-indent
+  :common-test.http/with-scopes :only-indent
+  :common-test.postman.flow/flow :only-indent
+  :cursive.formatting/align-binding-forms true
+  :midje.sweet/fact :only-indent
+}</ClojureCodeStyleSettings>
+  </code_scheme>
+</component>
